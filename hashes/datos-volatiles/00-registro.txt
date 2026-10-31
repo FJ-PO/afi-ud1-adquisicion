@@ -1,0 +1,48 @@
+﻿2026-10-31 13:36:14Z  Caso AFI-UD1 - evidencia FORENSE-06 - equipo FORENSE-06 - usuario FORENSE-06\Administrador
+2026-10-31 13:36:14Z  Hora local 2026-10-31 14:36:14 - zona Romance Standard Time - desfase UTC 01:00:00
+2026-10-31 13:36:14Z  PowerShell 2.0 - version adaptada a Windows 7 / PowerShell 2.0
+2026-10-31 13:36:14Z  Anota en el acta la diferencia entre este reloj y la hora real.
+2026-10-31 13:36:14Z  INICIO 01-fecha-hora
+2026-10-31 13:36:14Z  ERROR  01-fecha-hora : Operation is not valid due to the current state of the object.
+2026-10-31 13:36:14Z  INICIO 01b-sincronizacion
+2026-10-31 13:36:15Z  FIN    01b-sincronizacion
+2026-10-31 13:36:16Z  INICIO 02-arranque
+2026-10-31 13:36:16Z  FIN    02-arranque
+2026-10-31 13:36:17Z  INICIO 03-sesiones
+2026-10-31 13:36:17Z  FIN    03-sesiones
+2026-10-31 13:36:17Z  INICIO 04-conexiones-tcp
+2026-10-31 13:36:17Z  FIN    04-conexiones-tcp
+2026-10-31 13:36:18Z  INICIO 05-puertos-udp
+2026-10-31 13:36:18Z  FIN    05-puertos-udp
+2026-10-31 13:36:18Z  INICIO 06-netstat
+2026-10-31 13:36:18Z  FIN    06-netstat
+2026-10-31 13:36:18Z  INICIO 07-cache-arp
+2026-10-31 13:36:18Z  FIN    07-cache-arp
+2026-10-31 13:36:18Z  INICIO 08-cache-dns
+2026-10-31 13:36:18Z  FIN    08-cache-dns
+2026-10-31 13:36:18Z  INICIO 09-rutas
+2026-10-31 13:36:19Z  FIN    09-rutas
+2026-10-31 13:36:19Z  INICIO 10-configuracion-red
+2026-10-31 13:36:19Z  FIN    10-configuracion-red
+2026-10-31 13:36:19Z  INICIO 11-recursos-compartidos
+2026-10-31 13:36:19Z  FIN    11-recursos-compartidos
+2026-10-31 13:36:19Z  INICIO 12-procesos
+2026-10-31 13:36:20Z  FIN    12-procesos
+2026-10-31 13:36:21Z  INICIO 13-servicios
+2026-10-31 13:36:22Z  FIN    13-servicios
+2026-10-31 13:36:23Z  INICIO 14-tareas-programadas
+2026-10-31 13:36:26Z  FIN    14-tareas-programadas
+2026-10-31 13:36:27Z  INICIO 15-inicio-automatico
+2026-10-31 13:36:27Z  FIN    15-inicio-automatico
+2026-10-31 13:36:27Z  INICIO 16-usuarios-locales
+2026-10-31 13:36:28Z  FIN    16-usuarios-locales
+2026-10-31 13:36:28Z  INICIO 16b-administradores
+2026-10-31 13:36:29Z  FIN    16b-administradores
+2026-10-31 13:36:29Z  INICIO 17-discos-volumenes
+2026-10-31 13:36:33Z  FIN    17-discos-volumenes
+2026-10-31 13:36:33Z  INICIO 18-usb-conectados
+2026-10-31 13:36:34Z  FIN    18-usb-conectados
+2026-10-31 13:36:35Z  INICIO 19-portapapeles
+2026-10-31 13:36:35Z  FIN    19-portapapeles
+2026-10-31 13:36:36Z  Calculando SHA-256 de los ficheros generados
+2026-10-31 13:36:37Z  Terminado en 23 s. Salida: D:\salida\AFI-UD1_FORENSE-06_20261031-133614

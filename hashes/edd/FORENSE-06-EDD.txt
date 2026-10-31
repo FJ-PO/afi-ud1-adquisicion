@@ -1,0 +1,28 @@
+
+Encrypted Disk Detector v3.1.0
+Copyright (c) 2009-2022 Magnet Forensics Inc.
+http://www.magnetforensics.com
+// By using this software from Magnet Forensics, you agree that your use is governed by the End User License Agreement available at www.magnetforensics.com/legal. //
+
+* Checking physical drives on system... *
+
+Checking PhysicalDrive0 - VBOX HARDDISK SCSI Disk Device (34 GB) - Status: OK
+Checking PhysicalDrive1 - USB DISK 2.0 USB Device (16 GB) - Status: OK
+
+* Completed checking physical drives on system. *
+
+* Now checking logical volumes on system... *
+
+Drive C: (PhysicalDrive0), Drive Type: Fixed, Filesystem: NTFS, Size: 34 GB, Free Space: 23 GB
+Drive D: [Label: USB-RESPUESTA] (PhysicalDrive1), Drive Type: Removable, Filesystem: NTFS, Size: 16 GB, Free Space: 13 GB
+
+* Completed checking logical volumes on system. *
+
+* Running Secondary Bitlocker Check... *
+* Completed Secondary Bitlocker Check... *
+
+* Checking for running processes... *
+
+* Completed checking running processes. *
+
+*** No TrueCrypt, PGP, Bitlocker, VeraCrypt, SafeBoot, BestCrypt, Checkpoint, Sophos, or Symantec encrypted volumes detectable by EDD were found. ***
