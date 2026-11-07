@@ -1,0 +1,1391 @@
+ewfacquire 20140816
+
+Device information:
+Bus type:				
+Vendor:					
+Model:					
+Serial:					
+
+Storage media information:
+Type:					Device
+Media type:				Fixed
+Media size:				34 GB (34359738368 bytes)
+Bytes per sector:			512
+
+Acquiry started at: Nov 07, 2026 15:23:43
+This could take a while.
+
+Status: at 0%.
+        acquired 113 MiB (118784000 bytes) of total 32 GiB (34359738368 bytes).
+
+Status: at 0%.
+        acquired 189 MiB (198279168 bytes) of total 32 GiB (34359738368 bytes).
+
+Status: at 0%.
+        acquired 240 MiB (252379136 bytes) of total 32 GiB (34359738368 bytes).
+
+Status: at 0%.
+        acquired 286 MiB (300220416 bytes) of total 32 GiB (34359738368 bytes).
+
+Status: at 1%.
+        acquired 334 MiB (350388224 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 33 minute(s) and 0 second(s) with 16 MiB/s (17179869 bytes/second).
+
+Status: at 1%.
+        acquired 379 MiB (397967360 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 36 second(s) with 13 MiB/s (14316557 bytes/second).
+
+Status: at 1%.
+        acquired 419 MiB (439746560 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 12 second(s) with 11 MiB/s (12271335 bytes/second).
+
+Status: at 1%.
+        acquired 458 MiB (481198080 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 52 minute(s) and 48 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 1%.
+        acquired 495 MiB (519340032 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 59 minute(s) and 24 second(s) with 9.1 MiB/s (9544371 bytes/second).
+
+Status: at 1%.
+        acquired 548 MiB (574652416 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 1 hour(s), 6 minute(s) and 0 second(s) with 8.1 MiB/s (8589934 bytes/second).
+
+Status: at 1%.
+        acquired 590 MiB (619675648 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 1 hour(s), 12 minute(s) and 36 second(s) with 7.4 MiB/s (7809031 bytes/second).
+
+Status: at 1%.
+        acquired 627 MiB (658145280 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 1 hour(s), 19 minute(s) and 12 second(s) with 6.8 MiB/s (7158278 bytes/second).
+
+Status: at 2%.
+        acquired 665 MiB (697401344 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 42 minute(s) and 28 second(s) with 12 MiB/s (13215283 bytes/second).
+
+Status: at 2%.
+        acquired 708 MiB (742424576 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 44 second(s) with 11 MiB/s (12271335 bytes/second).
+
+Status: at 2%.
+        acquired 751 MiB (788070400 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 49 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 2%.
+        acquired 794 MiB (833388544 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 52 minute(s) and 16 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 2%.
+        acquired 838 MiB (878772224 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 55 minute(s) and 32 second(s) with 9.6 MiB/s (10105805 bytes/second).
+
+Status: at 2%.
+        acquired 880 MiB (923369472 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 58 minute(s) and 48 second(s) with 9.1 MiB/s (9544371 bytes/second).
+
+Status: at 2%.
+        acquired 922 MiB (967671808 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 1 hour(s), 2 minute(s) and 4 second(s) with 8.6 MiB/s (9042036 bytes/second).
+
+Status: at 2%.
+        acquired 963 MiB (1009975296 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 1 hour(s), 5 minute(s) and 20 second(s) with 8.1 MiB/s (8589934 bytes/second).
+
+Status: at 3%.
+        acquired 1006 MiB (1055326208 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 16 second(s) with 11 MiB/s (12271335 bytes/second).
+
+Status: at 3%.
+        acquired 1.0 GiB (1088421888 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 47 minute(s) and 25 second(s) with 11 MiB/s (11714878 bytes/second).
+
+Status: at 3%.
+        acquired 1.0 GiB (1126236160 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 49 minute(s) and 34 second(s) with 10 MiB/s (11206698 bytes/second).
+
+Status: at 3%.
+        acquired 1.0 GiB (1163558912 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 51 minute(s) and 44 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 3%.
+        acquired 1.1 GiB (1207861248 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 53 minute(s) and 53 second(s) with 9.8 MiB/s (10308952 bytes/second).
+
+Status: at 3%.
+        acquired 1.1 GiB (1252720640 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 56 minute(s) and 2 second(s) with 9.4 MiB/s (9913369 bytes/second).
+
+Status: at 3%.
+        acquired 1.2 GiB (1293123584 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 58 minute(s) and 12 second(s) with 9.1 MiB/s (9544371 bytes/second).
+
+Status: at 3%.
+        acquired 1.2 GiB (1334706176 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 1 hour(s), 0 minute(s) and 21 second(s) with 8.7 MiB/s (9204323 bytes/second).
+
+Status: at 4%.
+        acquired 1.2 GiB (1378942976 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 24 second(s) with 11 MiB/s (11848185 bytes/second).
+
+Status: at 4%.
+        acquired 1.3 GiB (1425571840 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 48 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 4%.
+        acquired 1.3 GiB (1467285504 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 49 minute(s) and 36 second(s) with 10 MiB/s (11083786 bytes/second).
+
+Status: at 4%.
+        acquired 1.4 GiB (1512865792 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 51 minute(s) and 12 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 4%.
+        acquired 1.4 GiB (1557397504 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 52 minute(s) and 48 second(s) with 9.9 MiB/s (10412041 bytes/second).
+
+Status: at 4%.
+        acquired 1.5 GiB (1602191360 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 54 minute(s) and 24 second(s) with 9.6 MiB/s (10105805 bytes/second).
+
+Status: at 4%.
+        acquired 1.5 GiB (1647181824 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 56 minute(s) and 0 second(s) with 9.3 MiB/s (9817068 bytes/second).
+
+Status: at 4%.
+        acquired 1.5 GiB (1693089792 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 57 minute(s) and 36 second(s) with 9.1 MiB/s (9544371 bytes/second).
+
+Status: at 5%.
+        acquired 1.6 GiB (1733132288 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 52 second(s) with 11 MiB/s (11608019 bytes/second).
+
+Status: at 5%.
+        acquired 1.6 GiB (1778089984 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 48 minute(s) and 8 second(s) with 10 MiB/s (11302545 bytes/second).
+
+Status: at 5%.
+        acquired 1.7 GiB (1818361856 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 49 minute(s) and 24 second(s) with 10 MiB/s (11012736 bytes/second).
+
+Status: at 5%.
+        acquired 1.7 GiB (1867218944 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 50 minute(s) and 40 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 5%.
+        acquired 1.7 GiB (1908146176 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 51 minute(s) and 56 second(s) with 9.9 MiB/s (10475529 bytes/second).
+
+Status: at 5%.
+        acquired 1.8 GiB (1945141248 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 53 minute(s) and 12 second(s) with 9.7 MiB/s (10226112 bytes/second).
+
+Status: at 5%.
+        acquired 1.8 GiB (1988689920 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 54 minute(s) and 28 second(s) with 9.5 MiB/s (9988296 bytes/second).
+
+Status: at 5%.
+        acquired 1.9 GiB (2030632960 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 55 minute(s) and 44 second(s) with 9.3 MiB/s (9761289 bytes/second).
+
+Status: at 6%.
+        acquired 1.9 GiB (2076114944 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 47 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 6%.
+        acquired 1.9 GiB (2119106560 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 48 minute(s) and 2 second(s) with 10 MiB/s (11206698 bytes/second).
+
+Status: at 6%.
+        acquired 2.0 GiB (2167504896 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 49 minute(s) and 5 second(s) with 10 MiB/s (10967040 bytes/second).
+
+Status: at 6%.
+        acquired 2.0 GiB (2209021952 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 50 minute(s) and 8 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 6%.
+        acquired 2.0 GiB (2251325440 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 51 minute(s) and 10 second(s) with 10 MiB/s (10520434 bytes/second).
+
+Status: at 6%.
+        acquired 2.1 GiB (2298118144 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 52 minute(s) and 13 second(s) with 9.8 MiB/s (10308952 bytes/second).
+
+Status: at 6%.
+        acquired 2.1 GiB (2345041920 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 53 minute(s) and 16 second(s) with 9.6 MiB/s (10105805 bytes/second).
+
+Status: at 6%.
+        acquired 2.2 GiB (2380693504 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 54 minute(s) and 18 second(s) with 9.4 MiB/s (9913369 bytes/second).
+
+Status: at 7%.
+        acquired 2.2 GiB (2417459200 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 56 second(s) with 10 MiB/s (11347337 bytes/second).
+
+Status: at 7%.
+        acquired 2.2 GiB (2459435008 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 47 minute(s) and 49 second(s) with 10 MiB/s (11137678 bytes/second).
+
+Status: at 7%.
+        acquired 2.3 GiB (2508259328 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 48 minute(s) and 42 second(s) with 10 MiB/s (10935626 bytes/second).
+
+Status: at 7%.
+        acquired 2.3 GiB (2551218176 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 49 minute(s) and 36 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 7%.
+        acquired 2.4 GiB (2595913728 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 50 minute(s) and 29 second(s) with 10 MiB/s (10549505 bytes/second).
+
+Status: at 7%.
+        acquired 2.4 GiB (2635300864 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 51 minute(s) and 22 second(s) with 9.9 MiB/s (10368056 bytes/second).
+
+Status: at 7%.
+        acquired 2.5 GiB (2672558080 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 52 minute(s) and 15 second(s) with 9.7 MiB/s (10192743 bytes/second).
+
+Status: at 7%.
+        acquired 2.5 GiB (2713714688 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 53 minute(s) and 8 second(s) with 9.5 MiB/s (10023260 bytes/second).
+
+Status: at 8%.
+        acquired 2.5 GiB (2768896000 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 46 second(s) with 10 MiB/s (11265487 bytes/second).
+
+Status: at 8%.
+        acquired 2.6 GiB (2826174464 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 47 minute(s) and 32 second(s) with 10 MiB/s (11083786 bytes/second).
+
+Status: at 8%.
+        acquired 2.7 GiB (2884370432 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 48 minute(s) and 18 second(s) with 10 MiB/s (10907853 bytes/second).
+
+Status: at 8%.
+        acquired 2.7 GiB (2929393664 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 49 minute(s) and 4 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 8%.
+        acquired 2.7 GiB (2970157056 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 49 minute(s) and 50 second(s) with 10 MiB/s (10572227 bytes/second).
+
+Status: at 8%.
+        acquired 2.8 GiB (3036905472 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 50 minute(s) and 36 second(s) with 9.9 MiB/s (10412041 bytes/second).
+
+Status: at 8%.
+        acquired 2.8 GiB (3085762560 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 51 minute(s) and 22 second(s) with 9.8 MiB/s (10256638 bytes/second).
+
+Status: at 9%.
+        acquired 2.9 GiB (3117056000 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 50 second(s) with 10 MiB/s (11369867 bytes/second).
+
+Status: at 9%.
+        acquired 2.9 GiB (3145596928 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 30 second(s) with 10 MiB/s (11206698 bytes/second).
+
+Status: at 9%.
+        acquired 2.9 GiB (3181281280 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 47 minute(s) and 11 second(s) with 10 MiB/s (11044596 bytes/second).
+
+Status: at 9%.
+        acquired 3.0 GiB (3250356224 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 47 minute(s) and 51 second(s) with 10 MiB/s (10890566 bytes/second).
+
+Status: at 9%.
+        acquired 3.0 GiB (3313106944 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 48 minute(s) and 32 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 9%.
+        acquired 3.1 GiB (3373662208 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 49 minute(s) and 12 second(s) with 10 MiB/s (10591781 bytes/second).
+
+Status: at 9%.
+        acquired 3.1 GiB (3428843520 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 49 minute(s) and 52 second(s) with 9.9 MiB/s (10450042 bytes/second).
+
+Status: at 10%.
+        acquired 3.2 GiB (3475111936 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 10%.
+        acquired 3.2 GiB (3523936256 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 36 second(s) with 10 MiB/s (11302545 bytes/second).
+
+Status: at 10%.
+        acquired 3.3 GiB (3559522304 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 12 second(s) with 10 MiB/s (11155759 bytes/second).
+
+Status: at 10%.
+        acquired 3.3 GiB (3600285696 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 48 second(s) with 10 MiB/s (11012736 bytes/second).
+
+Status: at 10%.
+        acquired 3.4 GiB (3652976640 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 47 minute(s) and 24 second(s) with 10 MiB/s (10873334 bytes/second).
+
+Status: at 10%.
+        acquired 3.4 GiB (3703373824 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 48 minute(s) and 0 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 10%.
+        acquired 3.5 GiB (3765567488 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 48 minute(s) and 36 second(s) with 10 MiB/s (10604857 bytes/second).
+
+Status: at 11%.
+        acquired 3.5 GiB (3809509376 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 44 minute(s) and 13 second(s) with 10 MiB/s (11526245 bytes/second).
+
+Status: at 11%.
+        acquired 3.6 GiB (3858432000 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 44 minute(s) and 46 second(s) with 10 MiB/s (11384936 bytes/second).
+
+Status: at 11%.
+        acquired 3.6 GiB (3906043904 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 18 second(s) with 10 MiB/s (11250732 bytes/second).
+
+Status: at 11%.
+        acquired 3.6 GiB (3951230976 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 50 second(s) with 10 MiB/s (11119656 bytes/second).
+
+Status: at 11%.
+        acquired 3.7 GiB (4000677888 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 23 second(s) with 10 MiB/s (10988083 bytes/second).
+
+Status: at 11%.
+        acquired 3.7 GiB (4049633280 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 55 second(s) with 10 MiB/s (10863021 bytes/second).
+
+Status: at 11%.
+        acquired 3.8 GiB (4096819200 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 47 minute(s) and 28 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 12%.
+        acquired 3.8 GiB (4139450368 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 43 minute(s) and 30 second(s) with 11 MiB/s (11584537 bytes/second).
+
+Status: at 12%.
+        acquired 3.9 GiB (4197220352 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 44 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 12%.
+        acquired 3.9 GiB (4248502272 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 44 minute(s) and 29 second(s) with 10 MiB/s (11328631 bytes/second).
+
+Status: at 12%.
+        acquired 4.0 GiB (4296736768 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 44 minute(s) and 58 second(s) with 10 MiB/s (11206698 bytes/second).
+
+Status: at 12%.
+        acquired 4.0 GiB (4343496704 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 28 second(s) with 10 MiB/s (11083786 bytes/second).
+
+Status: at 12%.
+        acquired 4.0 GiB (4393926656 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 57 second(s) with 10 MiB/s (10967040 bytes/second).
+
+Status: at 12%.
+        acquired 4.1 GiB (4437377024 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 26 second(s) with 10 MiB/s (10852728 bytes/second).
+
+Status: at 13%.
+        acquired 4.1 GiB (4488036352 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 42 minute(s) and 49 second(s) with 11 MiB/s (11635536 bytes/second).
+
+Status: at 13%.
+        acquired 4.2 GiB (4528406528 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 43 minute(s) and 16 second(s) with 10 MiB/s (11514657 bytes/second).
+
+Status: at 13%.
+        acquired 4.2 GiB (4554457088 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 43 minute(s) and 43 second(s) with 10 MiB/s (11396264 bytes/second).
+
+Status: at 13%.
+        acquired 4.2 GiB (4578410496 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 44 minute(s) and 10 second(s) with 10 MiB/s (11280281 bytes/second).
+
+Status: at 13%.
+        acquired 4.2 GiB (4604297216 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 44 minute(s) and 36 second(s) with 10 MiB/s (11170266 bytes/second).
+
+Status: at 13%.
+        acquired 4.3 GiB (4639686656 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 3 second(s) with 10 MiB/s (11058815 bytes/second).
+
+Status: at 13%.
+        acquired 4.3 GiB (4682448896 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 30 second(s) with 10 MiB/s (10949566 bytes/second).
+
+Status: at 13%.
+        acquired 4.4 GiB (4731404288 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 57 second(s) with 10 MiB/s (10842454 bytes/second).
+
+Status: at 13%.
+        acquired 4.4 GiB (4777181184 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 46 minute(s) and 24 second(s) with 10 MiB/s (10737418 bytes/second).
+
+Status: at 14%.
+        acquired 4.5 GiB (4823777280 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 43 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 14%.
+        acquired 4.5 GiB (4871815168 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 43 minute(s) and 24 second(s) with 10 MiB/s (11347337 bytes/second).
+
+Status: at 14%.
+        acquired 4.6 GiB (4933648384 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 43 minute(s) and 49 second(s) with 10 MiB/s (11239691 bytes/second).
+
+Status: at 14%.
+        acquired 4.6 GiB (4985913344 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 44 minute(s) and 13 second(s) with 10 MiB/s (11137678 bytes/second).
+
+Status: at 14%.
+        acquired 4.7 GiB (5033000960 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 44 minute(s) and 38 second(s) with 10 MiB/s (11033955 bytes/second).
+
+Status: at 14%.
+        acquired 4.7 GiB (5076975616 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 2 second(s) with 10 MiB/s (10935626 bytes/second).
+
+Status: at 14%.
+        acquired 4.7 GiB (5129175040 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 45 minute(s) and 27 second(s) with 10 MiB/s (10835616 bytes/second).
+
+Status: at 15%.
+        acquired 4.8 GiB (5178785792 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 42 minute(s) and 18 second(s) with 10 MiB/s (11506945 bytes/second).
+
+Status: at 15%.
+        acquired 4.8 GiB (5221023744 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 42 minute(s) and 41 second(s) with 10 MiB/s (11403829 bytes/second).
+
+Status: at 15%.
+        acquired 4.9 GiB (5267750912 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 43 minute(s) and 4 second(s) with 10 MiB/s (11302545 bytes/second).
+
+Status: at 15%.
+        acquired 4.9 GiB (5319884800 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 43 minute(s) and 26 second(s) with 10 MiB/s (11206698 bytes/second).
+
+Status: at 15%.
+        acquired 5.0 GiB (5377687552 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 43 minute(s) and 49 second(s) with 10 MiB/s (11108871 bytes/second).
+
+Status: at 15%.
+        acquired 5.0 GiB (5432279040 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 44 minute(s) and 12 second(s) with 10 MiB/s (11012736 bytes/second).
+
+Status: at 15%.
+        acquired 5.1 GiB (5491261440 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 44 minute(s) and 34 second(s) with 10 MiB/s (10921722 bytes/second).
+
+Status: at 16%.
+        acquired 5.1 GiB (5552865280 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 41 minute(s) and 39 second(s) with 11 MiB/s (11549491 bytes/second).
+
+Status: at 16%.
+        acquired 5.2 GiB (5607948288 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 42 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 16%.
+        acquired 5.2 GiB (5667651584 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 42 minute(s) and 21 second(s) with 10 MiB/s (11358591 bytes/second).
+
+Status: at 16%.
+        acquired 5.3 GiB (5720768512 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 42 minute(s) and 42 second(s) with 10 MiB/s (11265487 bytes/second).
+
+Status: at 16%.
+        acquired 5.3 GiB (5769592832 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 43 minute(s) and 3 second(s) with 10 MiB/s (11173898 bytes/second).
+
+Status: at 16%.
+        acquired 5.4 GiB (5818613760 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 43 minute(s) and 24 second(s) with 10 MiB/s (11083786 bytes/second).
+
+Status: at 17%.
+        acquired 5.4 GiB (5862752256 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 41 second(s) with 11 MiB/s (11683012 bytes/second).
+
+Status: at 17%.
+        acquired 5.5 GiB (5926748160 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 41 minute(s) and 0 second(s) with 11 MiB/s (11592354 bytes/second).
+
+Status: at 17%.
+        acquired 5.5 GiB (5968265216 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 41 minute(s) and 20 second(s) with 10 MiB/s (11499243 bytes/second).
+
+Status: at 17%.
+        acquired 5.6 GiB (6007422976 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 41 minute(s) and 39 second(s) with 10 MiB/s (11411404 bytes/second).
+
+Status: at 17%.
+        acquired 5.6 GiB (6048251904 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 41 minute(s) and 59 second(s) with 10 MiB/s (11321165 bytes/second).
+
+Status: at 17%.
+        acquired 5.6 GiB (6090457088 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 42 minute(s) and 18 second(s) with 10 MiB/s (11236016 bytes/second).
+
+Status: at 17%.
+        acquired 5.7 GiB (6136365056 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 42 minute(s) and 38 second(s) with 10 MiB/s (11148519 bytes/second).
+
+Status: at 18%.
+        acquired 5.7 GiB (6196166656 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 5 second(s) with 11 MiB/s (11714878 bytes/second).
+
+Status: at 18%.
+        acquired 5.8 GiB (6248693760 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 23 second(s) with 11 MiB/s (11627661 bytes/second).
+
+Status: at 18%.
+        acquired 5.8 GiB (6298828800 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 41 second(s) with 11 MiB/s (11541732 bytes/second).
+
+Status: at 18%.
+        acquired 5.9 GiB (6347030528 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 41 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 18%.
+        acquired 5.9 GiB (6395199488 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 41 minute(s) and 18 second(s) with 10 MiB/s (11369867 bytes/second).
+
+Status: at 18%.
+        acquired 5.9 GiB (6440714240 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 41 minute(s) and 36 second(s) with 10 MiB/s (11287693 bytes/second).
+
+Status: at 18%.
+        acquired 6.0 GiB (6487146496 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 41 minute(s) and 54 second(s) with 10 MiB/s (11206698 bytes/second).
+
+Status: at 19%.
+        acquired 6.0 GiB (6538887168 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 30 second(s) with 11 MiB/s (11742904 bytes/second).
+
+Status: at 19%.
+        acquired 6.1 GiB (6585417728 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 47 second(s) with 11 MiB/s (11659225 bytes/second).
+
+Status: at 19%.
+        acquired 6.1 GiB (6639747072 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 4 second(s) with 11 MiB/s (11576731 bytes/second).
+
+Status: at 19%.
+        acquired 6.2 GiB (6693355520 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 21 second(s) with 10 MiB/s (11495395 bytes/second).
+
+Status: at 19%.
+        acquired 6.2 GiB (6739296256 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 38 second(s) with 10 MiB/s (11415195 bytes/second).
+
+Status: at 19%.
+        acquired 6.3 GiB (6780977152 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 55 second(s) with 10 MiB/s (11336106 bytes/second).
+
+Status: at 19%.
+        acquired 6.3 GiB (6824067072 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 41 minute(s) and 12 second(s) with 10 MiB/s (11258105 bytes/second).
+
+Status: at 20%.
+        acquired 6.4 GiB (6875545600 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 56 second(s) with 11 MiB/s (11767033 bytes/second).
+
+Status: at 20%.
+        acquired 6.4 GiB (6923485184 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 12 second(s) with 11 MiB/s (11686985 bytes/second).
+
+Status: at 20%.
+        acquired 6.5 GiB (6971490304 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 28 second(s) with 11 MiB/s (11608019 bytes/second).
+
+Status: at 20%.
+        acquired 6.5 GiB (7021035520 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 44 second(s) with 10 MiB/s (11530113 bytes/second).
+
+Status: at 20%.
+        acquired 6.5 GiB (7070679040 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 20%.
+        acquired 6.6 GiB (7116881920 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 16 second(s) with 10 MiB/s (11377396 bytes/second).
+
+Status: at 20%.
+        acquired 6.6 GiB (7163215872 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 32 second(s) with 10 MiB/s (11302545 bytes/second).
+
+Status: at 20%.
+        acquired 6.7 GiB (7213383680 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 48 second(s) with 10 MiB/s (11228672 bytes/second).
+
+Status: at 21%.
+        acquired 6.7 GiB (7257292800 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 37 second(s) with 11 MiB/s (11714878 bytes/second).
+
+Status: at 21%.
+        acquired 6.8 GiB (7308378112 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 52 second(s) with 11 MiB/s (11639477 bytes/second).
+
+Status: at 21%.
+        acquired 6.8 GiB (7358873600 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 7 second(s) with 11 MiB/s (11565041 bytes/second).
+
+Status: at 21%.
+        acquired 6.9 GiB (7400030208 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 22 second(s) with 10 MiB/s (11491551 bytes/second).
+
+Status: at 21%.
+        acquired 6.9 GiB (7440990208 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 37 second(s) with 10 MiB/s (11418989 bytes/second).
+
+Status: at 21%.
+        acquired 6.9 GiB (7497252864 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 52 second(s) with 10 MiB/s (11347337 bytes/second).
+
+Status: at 21%.
+        acquired 7.0 GiB (7533756416 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 40 minute(s) and 7 second(s) with 10 MiB/s (11276579 bytes/second).
+
+Status: at 22%.
+        acquired 7.0 GiB (7590707200 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 3 second(s) with 11 MiB/s (11738892 bytes/second).
+
+Status: at 22%.
+        acquired 7.1 GiB (7643430912 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 17 second(s) with 11 MiB/s (11667143 bytes/second).
+
+Status: at 22%.
+        acquired 7.1 GiB (7682621440 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 31 second(s) with 11 MiB/s (11596266 bytes/second).
+
+Status: at 22%.
+        acquired 7.2 GiB (7742226432 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 45 second(s) with 10 MiB/s (11526245 bytes/second).
+
+Status: at 22%.
+        acquired 7.2 GiB (7782629376 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 22%.
+        acquired 7.2 GiB (7829094400 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 14 second(s) with 10 MiB/s (11384936 bytes/second).
+
+Status: at 22%.
+        acquired 7.3 GiB (7876018176 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 28 second(s) with 10 MiB/s (11317436 bytes/second).
+
+Status: at 23%.
+        acquired 7.3 GiB (7928545280 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 29 second(s) with 11 MiB/s (11763005 bytes/second).
+
+Status: at 23%.
+        acquired 7.4 GiB (7973994496 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 43 second(s) with 11 MiB/s (11690962 bytes/second).
+
+Status: at 23%.
+        acquired 7.4 GiB (8022851584 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 56 second(s) with 11 MiB/s (11623727 bytes/second).
+
+Status: at 23%.
+        acquired 7.5 GiB (8068071424 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 9 second(s) with 11 MiB/s (11557261 bytes/second).
+
+Status: at 23%.
+        acquired 7.5 GiB (8104411136 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 23 second(s) with 10 MiB/s (11487709 bytes/second).
+
+Status: at 23%.
+        acquired 7.6 GiB (8149172224 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 36 second(s) with 10 MiB/s (11422785 bytes/second).
+
+Status: at 23%.
+        acquired 7.6 GiB (8194654208 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 50 second(s) with 10 MiB/s (11354837 bytes/second).
+
+Status: at 23%.
+        acquired 7.6 GiB (8244854784 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 39 minute(s) and 3 second(s) with 10 MiB/s (11291402 bytes/second).
+
+Status: at 24%.
+        acquired 7.7 GiB (8286928896 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 9 second(s) with 11 MiB/s (11714878 bytes/second).
+
+Status: at 24%.
+        acquired 7.7 GiB (8326905856 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 22 second(s) with 11 MiB/s (11647368 bytes/second).
+
+Status: at 24%.
+        acquired 7.8 GiB (8375828480 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 34 second(s) with 11 MiB/s (11584537 bytes/second).
+
+Status: at 24%.
+        acquired 7.8 GiB (8425406464 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 47 second(s) with 10 MiB/s (11518517 bytes/second).
+
+Status: at 24%.
+        acquired 7.9 GiB (8476098560 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 24%.
+        acquired 7.9 GiB (8528527360 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 12 second(s) with 10 MiB/s (11392486 bytes/second).
+
+Status: at 24%.
+        acquired 7.9 GiB (8581545984 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 38 minute(s) and 25 second(s) with 10 MiB/s (11328631 bytes/second).
+
+Status: at 25%.
+        acquired 8.0 GiB (8634859520 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 36 minute(s) and 36 second(s) with 11 MiB/s (11734883 bytes/second).
+
+Status: at 25%.
+        acquired 8.0 GiB (8687878144 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 36 minute(s) and 48 second(s) with 11 MiB/s (11671106 bytes/second).
+
+Status: at 25%.
+        acquired 8.1 GiB (8743288832 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 0 second(s) with 11 MiB/s (11608019 bytes/second).
+
+Status: at 25%.
+        acquired 8.1 GiB (8792834048 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 12 second(s) with 11 MiB/s (11545611 bytes/second).
+
+Status: at 25%.
+        acquired 8.2 GiB (8832843776 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 24 second(s) with 10 MiB/s (11483869 bytes/second).
+
+Status: at 25%.
+        acquired 8.2 GiB (8880750592 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 36 second(s) with 10 MiB/s (11422785 bytes/second).
+
+Status: at 25%.
+        acquired 8.3 GiB (8930361344 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 48 second(s) with 10 MiB/s (11362347 bytes/second).
+
+Status: at 26%.
+        acquired 8.3 GiB (8990425088 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 36 minute(s) and 3 second(s) with 11 MiB/s (11754956 bytes/second).
+
+Status: at 26%.
+        acquired 8.4 GiB (9034825728 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 36 minute(s) and 14 second(s) with 11 MiB/s (11694941 bytes/second).
+
+Status: at 26%.
+        acquired 8.4 GiB (9083617280 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 36 minute(s) and 25 second(s) with 11 MiB/s (11635536 bytes/second).
+
+Status: at 26%.
+        acquired 8.5 GiB (9128509440 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 36 minute(s) and 37 second(s) with 11 MiB/s (11572832 bytes/second).
+
+Status: at 26%.
+        acquired 8.5 GiB (9172910080 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 36 minute(s) and 48 second(s) with 10 MiB/s (11514657 bytes/second).
+
+Status: at 26%.
+        acquired 8.5 GiB (9218228224 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 0 second(s) with 10 MiB/s (11453246 bytes/second).
+
+Status: at 26%.
+        acquired 8.6 GiB (9267838976 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 37 minute(s) and 11 second(s) with 10 MiB/s (11396264 bytes/second).
+
+Status: at 27%.
+        acquired 8.6 GiB (9310175232 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 35 minute(s) and 30 second(s) with 11 MiB/s (11775098 bytes/second).
+
+Status: at 27%.
+        acquired 8.7 GiB (9359097856 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 35 minute(s) and 41 second(s) with 11 MiB/s (11714878 bytes/second).
+
+Status: at 27%.
+        acquired 8.7 GiB (9410117632 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 35 minute(s) and 52 second(s) with 11 MiB/s (11655270 bytes/second).
+
+Status: at 27%.
+        acquired 8.8 GiB (9467199488 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 36 minute(s) and 2 second(s) with 11 MiB/s (11600181 bytes/second).
+
+Status: at 27%.
+        acquired 8.8 GiB (9521233920 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 36 minute(s) and 13 second(s) with 11 MiB/s (11541732 bytes/second).
+
+Status: at 27%.
+        acquired 8.9 GiB (9565011968 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 36 minute(s) and 24 second(s) with 10 MiB/s (11483869 bytes/second).
+
+Status: at 27%.
+        acquired 8.9 GiB (9612197888 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 36 minute(s) and 35 second(s) with 10 MiB/s (11426584 bytes/second).
+
+Status: at 28%.
+        acquired 8.9 GiB (9657024512 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 34 minute(s) and 58 second(s) with 11 MiB/s (11791262 bytes/second).
+
+Status: at 28%.
+        acquired 9.0 GiB (9711190016 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 35 minute(s) and 8 second(s) with 11 MiB/s (11734883 bytes/second).
+
+Status: at 28%.
+        acquired 9.1 GiB (9778135040 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 35 minute(s) and 18 second(s) with 11 MiB/s (11679040 bytes/second).
+
+Status: at 28%.
+        acquired 9.1 GiB (9831088128 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 35 minute(s) and 29 second(s) with 11 MiB/s (11619796 bytes/second).
+
+Status: at 28%.
+        acquired 9.2 GiB (9891184640 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 35 minute(s) and 39 second(s) with 11 MiB/s (11565041 bytes/second).
+
+Status: at 28%.
+        acquired 9.2 GiB (9959309312 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 35 minute(s) and 49 second(s) with 10 MiB/s (11510800 bytes/second).
+
+Status: at 29%.
+        acquired 9.3 GiB (10014621696 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 34 minute(s) and 16 second(s) with 11 MiB/s (11864550 bytes/second).
+
+Status: at 29%.
+        acquired 9.3 GiB (10077110272 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 34 minute(s) and 26 second(s) with 11 MiB/s (11807470 bytes/second).
+
+Status: at 29%.
+        acquired 9.4 GiB (10129997824 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 34 minute(s) and 36 second(s) with 11 MiB/s (11750936 bytes/second).
+
+Status: at 29%.
+        acquired 9.5 GiB (10196615168 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 34 minute(s) and 45 second(s) with 11 MiB/s (11698923 bytes/second).
+
+Status: at 29%.
+        acquired 9.5 GiB (10252419072 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 34 minute(s) and 55 second(s) with 11 MiB/s (11643422 bytes/second).
+
+Status: at 29%.
+        acquired 9.6 GiB (10307665920 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 35 minute(s) and 5 second(s) with 11 MiB/s (11588444 bytes/second).
+
+Status: at 30%.
+        acquired 9.6 GiB (10370973696 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 33 minute(s) and 36 second(s) with 11 MiB/s (11930464 bytes/second).
+
+Status: at 30%.
+        acquired 9.7 GiB (10430251008 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 33 minute(s) and 45 second(s) with 11 MiB/s (11876853 bytes/second).
+
+Status: at 30%.
+        acquired 9.7 GiB (10494214144 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 33 minute(s) and 54 second(s) with 11 MiB/s (11823722 bytes/second).
+
+Status: at 30%.
+        acquired 9.8 GiB (10563649536 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 34 minute(s) and 4 second(s) with 11 MiB/s (11767033 bytes/second).
+
+Status: at 30%.
+        acquired 9.9 GiB (10629611520 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 34 minute(s) and 13 second(s) with 11 MiB/s (11714878 bytes/second).
+
+Status: at 31%.
+        acquired 9.9 GiB (10706288640 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 32 minute(s) and 47 second(s) with 11 MiB/s (12051819 bytes/second).
+
+Status: at 31%.
+        acquired 10 GiB (10775920640 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 32 minute(s) and 56 second(s) with 11 MiB/s (11997115 bytes/second).
+
+Status: at 31%.
+        acquired 10 GiB (10839359488 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 33 minute(s) and 5 second(s) with 11 MiB/s (11942905 bytes/second).
+
+Status: at 31%.
+        acquired 10 GiB (10905550848 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 33 minute(s) and 14 second(s) with 11 MiB/s (11889182 bytes/second).
+
+Status: at 31%.
+        acquired 10 GiB (10964926464 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 33 minute(s) and 23 second(s) with 11 MiB/s (11835941 bytes/second).
+
+Status: at 32%.
+        acquired 10 GiB (11028070400 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 32 minute(s) and 1 second(s) with 11 MiB/s (12162739 bytes/second).
+
+Status: at 32%.
+        acquired 10 GiB (11085676544 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 32 minute(s) and 9 second(s) with 11 MiB/s (12111293 bytes/second).
+
+Status: at 32%.
+        acquired 10 GiB (11158945792 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 32 minute(s) and 18 second(s) with 11 MiB/s (12056048 bytes/second).
+
+Status: at 33%.
+        acquired 10 GiB (11355750400 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 30 minute(s) and 59 second(s) with 11 MiB/s (12381887 bytes/second).
+
+Status: at 33%.
+        acquired 10 GiB (11473649664 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 31 minute(s) and 7 second(s) with 11 MiB/s (12328574 bytes/second).
+
+Status: at 34%.
+        acquired 10 GiB (11736055808 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 29 minute(s) and 53 second(s) with 12 MiB/s (12646204 bytes/second).
+
+Status: at 34%.
+        acquired 11 GiB (12000428032 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 30 minute(s) and 1 second(s) with 12 MiB/s (12590596 bytes/second).
+
+Status: at 35%.
+        acquired 11 GiB (12186648576 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 28 minute(s) and 50 second(s) with 12 MiB/s (12907489 bytes/second).
+
+Status: at 35%.
+        acquired 11 GiB (12228952064 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 28 minute(s) and 58 second(s) with 12 MiB/s (12849565 bytes/second).
+
+Status: at 35%.
+        acquired 11 GiB (12270829568 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 29 minute(s) and 5 second(s) with 12 MiB/s (12796923 bytes/second).
+
+Status: at 36%.
+        acquired 11 GiB (12490473472 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 27 minute(s) and 58 second(s) with 12 MiB/s (13104400 bytes/second).
+
+Status: at 37%.
+        acquired 11 GiB (12819398656 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 26 minute(s) and 54 second(s) with 12 MiB/s (13411295 bytes/second).
+
+Status: at 38%.
+        acquired 12 GiB (13143212032 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 25 minute(s) and 53 second(s) with 13 MiB/s (13716462 bytes/second).
+
+Status: at 39%.
+        acquired 12 GiB (13485441024 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 24 minute(s) and 55 second(s) with 13 MiB/s (14018661 bytes/second).
+
+Status: at 40%.
+        acquired 12 GiB (13801717760 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 24 minute(s) and 0 second(s) with 13 MiB/s (14316557 bytes/second).
+
+Status: at 41%.
+        acquired 13 GiB (14143881216 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 23 minute(s) and 7 second(s) with 13 MiB/s (14614946 bytes/second).
+
+Status: at 42%.
+        acquired 13 GiB (14485225472 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 22 minute(s) and 16 second(s) with 14 MiB/s (14913080 bytes/second).
+
+Status: at 43%.
+        acquired 13 GiB (14821326848 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 21 minute(s) and 28 second(s) with 14 MiB/s (15203424 bytes/second).
+
+Status: at 44%.
+        acquired 14 GiB (15158771712 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 20 minute(s) and 42 second(s) with 14 MiB/s (15491315 bytes/second).
+
+Status: at 44%.
+        acquired 14 GiB (15450046464 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 20 minute(s) and 47 second(s) with 14 MiB/s (15428710 bytes/second).
+
+Status: at 45%.
+        acquired 14 GiB (15718187008 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 20 minute(s) and 2 second(s) with 14 MiB/s (15718087 bytes/second).
+
+Status: at 46%.
+        acquired 14 GiB (15987015680 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 19 minute(s) and 19 second(s) with 15 MiB/s (16003604 bytes/second).
+
+Status: at 47%.
+        acquired 15 GiB (16196173824 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 18 minute(s) and 38 second(s) with 15 MiB/s (16284236 bytes/second).
+
+Status: at 47%.
+        acquired 15 GiB (16381411328 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 18 minute(s) and 43 second(s) with 15 MiB/s (16215072 bytes/second).
+
+Status: at 48%.
+        acquired 15 GiB (16547020800 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 18 minute(s) and 3 second(s) with 15 MiB/s (16495313 bytes/second).
+
+Status: at 48%.
+        acquired 15 GiB (16779051008 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 18 minute(s) and 7 second(s) with 15 MiB/s (16432203 bytes/second).
+
+Status: at 49%.
+        acquired 15 GiB (17064427520 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 17 minute(s) and 29 second(s) with 15 MiB/s (16703810 bytes/second).
+
+Status: at 50%.
+        acquired 16 GiB (17256972288 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 52 second(s) with 16 MiB/s (16976155 bytes/second).
+
+Status: at 50%.
+        acquired 16 GiB (17313759232 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 56 second(s) with 16 MiB/s (16909320 bytes/second).
+
+Status: at 50%.
+        acquired 16 GiB (17370152960 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 17 minute(s) and 0 second(s) with 16 MiB/s (16843009 bytes/second).
+
+Status: at 50%.
+        acquired 16 GiB (17416486912 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 17 minute(s) and 4 second(s) with 16 MiB/s (16777216 bytes/second).
+
+Status: at 50%.
+        acquired 16 GiB (17463803904 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 17 minute(s) and 8 second(s) with 15 MiB/s (16711935 bytes/second).
+
+Status: at 50%.
+        acquired 16 GiB (17520066560 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 17 minute(s) and 12 second(s) with 15 MiB/s (16647160 bytes/second).
+
+Status: at 51%.
+        acquired 16 GiB (17584357376 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 35 second(s) with 16 MiB/s (16917645 bytes/second).
+
+Status: at 51%.
+        acquired 16 GiB (17644290048 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 39 second(s) with 16 MiB/s (16851269 bytes/second).
+
+Status: at 51%.
+        acquired 16 GiB (17699471360 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 43 second(s) with 16 MiB/s (16785412 bytes/second).
+
+Status: at 51%.
+        acquired 16 GiB (17748426752 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 46 second(s) with 15 MiB/s (16728207 bytes/second).
+
+Status: at 51%.
+        acquired 16 GiB (17802035200 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 50 second(s) with 15 MiB/s (16663306 bytes/second).
+
+Status: at 51%.
+        acquired 16 GiB (17851416576 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 54 second(s) with 15 MiB/s (16598907 bytes/second).
+
+Status: at 52%.
+        acquired 16 GiB (17916559360 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 18 second(s) with 16 MiB/s (16859537 bytes/second).
+
+Status: at 52%.
+        acquired 16 GiB (17985536000 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 22 second(s) with 16 MiB/s (16793616 bytes/second).
+
+Status: at 52%.
+        acquired 16 GiB (18038292480 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 25 second(s) with 15 MiB/s (16736355 bytes/second).
+
+Status: at 52%.
+        acquired 16 GiB (18077483008 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 29 second(s) with 15 MiB/s (16671391 bytes/second).
+
+Status: at 52%.
+        acquired 16 GiB (18123653120 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 33 second(s) with 15 MiB/s (16606930 bytes/second).
+
+Status: at 52%.
+        acquired 16 GiB (18183323648 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 36 second(s) with 15 MiB/s (16550933 bytes/second).
+
+Status: at 53%.
+        acquired 16 GiB (18238210048 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 1 second(s) with 16 MiB/s (16801828 bytes/second).
+
+Status: at 53%.
+        acquired 17 GiB (18290606080 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 4 second(s) with 15 MiB/s (16744511 bytes/second).
+
+Status: at 53%.
+        acquired 17 GiB (18355027968 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 8 second(s) with 15 MiB/s (16679484 bytes/second).
+
+Status: at 53%.
+        acquired 17 GiB (18407849984 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 11 second(s) with 15 MiB/s (16622998 bytes/second).
+
+Status: at 53%.
+        acquired 17 GiB (18477350912 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 15 second(s) with 15 MiB/s (16558910 bytes/second).
+
+Status: at 53%.
+        acquired 17 GiB (18542166016 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 16 minute(s) and 19 second(s) with 15 MiB/s (16495313 bytes/second).
+
+Status: at 54%.
+        acquired 17 GiB (18619301888 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 43 second(s) with 15 MiB/s (16752675 bytes/second).
+
+Status: at 54%.
+        acquired 17 GiB (18668716032 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 47 second(s) with 15 MiB/s (16687585 bytes/second).
+
+Status: at 54%.
+        acquired 17 GiB (18731139072 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 50 second(s) with 15 MiB/s (16631044 bytes/second).
+
+Status: at 54%.
+        acquired 17 GiB (18789203968 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 54 second(s) with 15 MiB/s (16566894 bytes/second).
+
+Status: at 54%.
+        acquired 17 GiB (18858180608 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 57 second(s) with 15 MiB/s (16511166 bytes/second).
+
+Status: at 55%.
+        acquired 17 GiB (18922700800 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 22 second(s) with 15 MiB/s (16760847 bytes/second).
+
+Status: at 55%.
+        acquired 17 GiB (18992627712 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 26 second(s) with 15 MiB/s (16695694 bytes/second).
+
+Status: at 55%.
+        acquired 17 GiB (19048955904 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 29 second(s) with 15 MiB/s (16639098 bytes/second).
+
+Status: at 55%.
+        acquired 17 GiB (19107708928 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 32 second(s) with 15 MiB/s (16582885 bytes/second).
+
+Status: at 55%.
+        acquired 17 GiB (19168034816 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 36 second(s) with 15 MiB/s (16519104 bytes/second).
+
+Status: at 55%.
+        acquired 17 GiB (19217350656 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 39 second(s) with 15 MiB/s (16463698 bytes/second).
+
+Status: at 56%.
+        acquired 17 GiB (19269713920 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 5 second(s) with 15 MiB/s (16703810 bytes/second).
+
+Status: at 56%.
+        acquired 18 GiB (19344130048 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 8 second(s) with 15 MiB/s (16647160 bytes/second).
+
+Status: at 56%.
+        acquired 18 GiB (19424575488 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 15 minute(s) and 11 second(s) with 15 MiB/s (16590892 bytes/second).
+
+Status: at 57%.
+        acquired 18 GiB (19722829824 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 14 minute(s) and 38 second(s) with 16 MiB/s (16826512 bytes/second).
+
+Status: at 58%.
+        acquired 18 GiB (20045561856 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 14 minute(s) and 5 second(s) with 16 MiB/s (17068921 bytes/second).
+
+Status: at 59%.
+        acquired 18 GiB (20280016896 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 13 minute(s) and 34 second(s) with 16 MiB/s (17300976 bytes/second).
+
+Status: at 59%.
+        acquired 19 GiB (20513128448 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 13 minute(s) and 37 second(s) with 16 MiB/s (17240209 bytes/second).
+
+Status: at 60%.
+        acquired 19 GiB (20735328256 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 13 minute(s) and 6 second(s) with 16 MiB/s (17476977 bytes/second).
+
+Status: at 61%.
+        acquired 19 GiB (21018247168 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 12 minute(s) and 36 second(s) with 16 MiB/s (17711205 bytes/second).
+
+Status: at 62%.
+        acquired 19 GiB (21322727424 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 12 minute(s) and 8 second(s) with 17 MiB/s (17933057 bytes/second).
+
+Status: at 63%.
+        acquired 20 GiB (21647687680 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 11 minute(s) and 40 second(s) with 17 MiB/s (18160538 bytes/second).
+
+Status: at 63%.
+        acquired 20 GiB (21973172224 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 11 minute(s) and 42 second(s) with 17 MiB/s (18103128 bytes/second).
+
+Status: at 64%.
+        acquired 20 GiB (22279847936 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 11 minute(s) and 15 second(s) with 17 MiB/s (18325193 bytes/second).
+
+Status: at 65%.
+        acquired 21 GiB (22596648960 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 10 minute(s) and 48 second(s) with 17 MiB/s (18552774 bytes/second).
+
+Status: at 66%.
+        acquired 21 GiB (22925377536 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 10 minute(s) and 22 second(s) with 17 MiB/s (18775813 bytes/second).
+
+Status: at 67%.
+        acquired 21 GiB (23236378624 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 9 minute(s) and 56 second(s) with 18 MiB/s (19004280 bytes/second).
+
+Status: at 68%.
+        acquired 21 GiB (23557570560 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 9 minute(s) and 32 second(s) with 18 MiB/s (19216855 bytes/second).
+
+Status: at 69%.
+        acquired 22 GiB (23896588288 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 9 minute(s) and 8 second(s) with 18 MiB/s (19434241 bytes/second).
+
+Status: at 70%.
+        acquired 22 GiB (24193564672 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 8 minute(s) and 44 second(s) with 18 MiB/s (19656600 bytes/second).
+
+Status: at 71%.
+        acquired 22 GiB (24516886528 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 8 minute(s) and 21 second(s) with 18 MiB/s (19872607 bytes/second).
+
+Status: at 72%.
+        acquired 23 GiB (24786403328 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 7 minute(s) and 59 second(s) with 19 MiB/s (20081670 bytes/second).
+
+Status: at 72%.
+        acquired 23 GiB (25020399616 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 8 minute(s) and 0 second(s) with 19 MiB/s (20023157 bytes/second).
+
+Status: at 73%.
+        acquired 23 GiB (25253543936 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 7 minute(s) and 38 second(s) with 19 MiB/s (20235417 bytes/second).
+
+Status: at 74%.
+        acquired 23 GiB (25516867584 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 7 minute(s) and 17 second(s) with 19 MiB/s (20440058 bytes/second).
+
+Status: at 75%.
+        acquired 24 GiB (25820364800 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 6 minute(s) and 56 second(s) with 19 MiB/s (20648881 bytes/second).
+
+Status: at 76%.
+        acquired 24 GiB (26120388608 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 6 minute(s) and 35 second(s) with 19 MiB/s (20862014 bytes/second).
+
+Status: at 76%.
+        acquired 24 GiB (26449641472 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 6 minute(s) and 36 second(s) with 19 MiB/s (20798873 bytes/second).
+
+Status: at 77%.
+        acquired 24 GiB (26783383552 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 6 minute(s) and 16 second(s) with 20 MiB/s (21002285 bytes/second).
+
+Status: at 78%.
+        acquired 25 GiB (27102019584 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 5 minute(s) and 56 second(s) with 20 MiB/s (21209715 bytes/second).
+
+Status: at 79%.
+        acquired 25 GiB (27420950528 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 5 minute(s) and 37 second(s) with 20 MiB/s (21407936 bytes/second).
+
+Status: at 80%.
+        acquired 25 GiB (27731361792 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 5 minute(s) and 18 second(s) with 20 MiB/s (21609898 bytes/second).
+
+Status: at 81%.
+        acquired 26 GiB (28051668992 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 4 minute(s) and 59 second(s) with 20 MiB/s (21815706 bytes/second).
+
+Status: at 82%.
+        acquired 26 GiB (28383412224 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 4 minute(s) and 40 second(s) with 21 MiB/s (22025473 bytes/second).
+
+Status: at 83%.
+        acquired 26 GiB (28715450368 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 4 minute(s) and 22 second(s) with 21 MiB/s (22224927 bytes/second).
+
+Status: at 84%.
+        acquired 26 GiB (28981592064 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 4 minute(s) and 5 second(s) with 21 MiB/s (22413397 bytes/second).
+
+Status: at 84%.
+        acquired 27 GiB (29115449344 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 4 minute(s) and 6 second(s) with 21 MiB/s (22340532 bytes/second).
+
+Status: at 84%.
+        acquired 27 GiB (29203857408 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 4 minute(s) and 6 second(s) with 21 MiB/s (22282580 bytes/second).
+
+Status: at 85%.
+        acquired 27 GiB (29349412864 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 3 minute(s) and 49 second(s) with 21 MiB/s (22472032 bytes/second).
+
+Status: at 86%.
+        acquired 27 GiB (29585768448 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 3 minute(s) and 32 second(s) with 21 MiB/s (22664735 bytes/second).
+
+Status: at 86%.
+        acquired 27 GiB (29830152192 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 3 minute(s) and 32 second(s) with 21 MiB/s (22605091 bytes/second).
+
+Status: at 87%.
+        acquired 28 GiB (30097211392 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 3 minute(s) and 16 second(s) with 21 MiB/s (22784972 bytes/second).
+
+Status: at 88%.
+        acquired 28 GiB (30403002368 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 2 minute(s) and 59 second(s) with 21 MiB/s (22983102 bytes/second).
+
+Status: at 89%.
+        acquired 28 GiB (30705713152 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 2 minute(s) and 43 second(s) with 22 MiB/s (23169075 bytes/second).
+
+Status: at 90%.
+        acquired 28 GiB (31004327936 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 2 minute(s) and 27 second(s) with 22 MiB/s (23358081 bytes/second).
+
+Status: at 91%.
+        acquired 29 GiB (31281020928 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 2 minute(s) and 11 second(s) with 22 MiB/s (23550197 bytes/second).
+
+Status: at 91%.
+        acquired 29 GiB (31576260608 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 2 minute(s) and 11 second(s) with 22 MiB/s (23485808 bytes/second).
+
+Status: at 92%.
+        acquired 29 GiB (31837650944 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 1 minute(s) and 56 second(s) with 22 MiB/s (23663731 bytes/second).
+
+Status: at 93%.
+        acquired 29 GiB (32100876288 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 1 minute(s) and 40 second(s) with 22 MiB/s (23860929 bytes/second).
+
+Status: at 94%.
+        acquired 30 GiB (32395493376 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 1 minute(s) and 25 second(s) with 22 MiB/s (24044603 bytes/second).
+
+Status: at 95%.
+        acquired 30 GiB (32668942336 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 1 minute(s) and 10 second(s) with 23 MiB/s (24231127 bytes/second).
+
+Status: at 95%.
+        acquired 30 GiB (32900546560 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 1 minute(s) and 11 second(s) with 23 MiB/s (24145986 bytes/second).
+
+Status: at 96%.
+        acquired 30 GiB (33135394816 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 56 second(s) with 23 MiB/s (24334092 bytes/second).
+
+Status: at 97%.
+        acquired 31 GiB (33367031808 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 42 second(s) with 23 MiB/s (24507659 bytes/second).
+
+Status: at 98%.
+        acquired 31 GiB (33672855552 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 27 second(s) with 23 MiB/s (24701465 bytes/second).
+
+Status: at 98%.
+        acquired 31 GiB (33967734784 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 27 second(s) with 23 MiB/s (24630636 bytes/second).
+
+Status: at 99%.
+        acquired 31 GiB (34285879296 bytes) of total 32 GiB (34359738368 bytes).
+        completion in 13 second(s) with 23 MiB/s (24808475 bytes/second).
+
+Acquiry completed at: Nov 07, 2026 15:46:35
+
+Written: 32 GiB (34359738712 bytes) in 22 minute(s) and 52 second(s) with 23 MiB/s (25043541 bytes/second).
+MD5 hash calculated over data:		7d461221f9bf23532774a6469dc72315
+SHA1 hash calculated over data:		3a0f31ebe87dd3de94170f1220c75cc32a88e361
+ewfacquire: SUCCESS

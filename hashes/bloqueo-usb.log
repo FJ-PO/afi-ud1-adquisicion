@@ -1,0 +1,14 @@
+﻿2026-11-03 09:01:59  w10  Disco 1 ( USB DISK 2.0, serie 07038199913BC589) -> SOLO LECTURA
+2026-11-03 09:02:30  w10  Politica global WriteProtect=1
+2026-11-03 09:02:30  w10  La politica se aplica al conectar: desconecta y vuelve a conectar los USB que ya estuvieran puestos.
+2026-11-03 09:09:49  w10  Disco 1 ( USB DISK 2.0, serie 07038199913BC589) -> ESCRITURA PERMITIDA
+2026-11-03 09:09:59  w10  Disco 1 ( USB DISK 2.0, serie 07038199913BC589) -> ESCRITURA PERMITIDA
+2026-11-03 09:14:46  w10  Disco 1 ( USB DISK 2.0, serie 07038199913BC589) -> ESCRITURA PERMITIDA
+2026-11-03 09:50:44  w10  Disco 1 ( USB DISK 2.0, serie 07038199913BC589) -> ESCRITURA PERMITIDA
+2026-11-03 09:50:54  w10  Politica global WriteProtect=0
+2026-11-03 10:10:29  w10  Politica global WriteProtect=1
+2026-11-03 10:10:30  w10  La politica se aplica al conectar: desconecta y vuelve a conectar los USB que ya estuvieran puestos.
+2026-11-03 11:44:50  w10  Politica global WriteProtect=1
+2026-11-03 11:44:50  w10  La politica se aplica al conectar: desconecta y vuelve a conectar los USB que ya estuvieran puestos.
+2026-11-03 11:51:32  w10  Comprobacion: Disco 1 E: : no deja escribir -> PROTEGIDO
+2026-11-03 13:05:42  w10  Politica global WriteProtect=0
