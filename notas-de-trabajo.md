@@ -11,11 +11,11 @@ equipo con Linux.
 
 ## Parte 1 - Adquisición en vivo (31/10/2026)
 
-Mi marca. Antes de tocar nada dejé mi marca:
+Antes de tocar nada dejé mi marca:
 
-- Escribí AFI-FranciscoJosePerezOrtiz-20261031 en el Bloc de notas y lo dejé abierto sin guardar (14:04).
+- Escribí AFI-FranciscoJosePerezOrtiz-20261031 en el Bloc de notas y lo dejé abierto sin guardar.
 - Creé en el escritorio el archivo marca-franciscojoseperezortiz.txt con el
-  mismo texto (14:06).
+  mismo texto.
 - Copié ese archivo al pendrive que hace de pendrive encontrado.
 
 Estado inicial: Hice una captura de la pantalla. La hora del equipo era
@@ -25,15 +25,17 @@ Lo anoté para tenerlo en cuenta al interpretar las horas.
 Memoria RAM. Primero probé DumpIt, pero en Windows 7 no cargaba su
 controlador, así que usé WinPmem y volqué la RAM a FORENSE-06-ram.raw.
 
-Datos volátiles. El script de respuesta en vivo de los apuntes no funcionaba en PowerShell 2.0. 
+Datos volátiles: El script de respuesta en vivo de los apuntes no funcionaba en PowerShell 2.0. 
 
-Lo adapté y lo copié al USB. Generó la carpeta AFI-UD1_FORENSE-06_20261031-133614 con procesos, conexiones, usuarios, etc.
+Lo adapté y lo copié al USB. 
+Generó la carpeta AFI-UD1_FORENSE-06_20261031-133614 con procesos, conexiones, usuarios, etc.
 
-Tráfico de red. Capturé el tráfico desde fuera de la máquina (como un TAP), sin instalar nada dentro, usando VBoxManage. Al terminar paré la captura y guardé red.pcap.
+Tráfico de red: Capturé el tráfico desde fuera de la máquina, sin instalar nada dentro, usando VBoxManage y al terminar paré la captura y guardé red.pcap.
 
-Triaje. KAPE no funcionó (versión antigua de .NET) y Velociraptor 0.77 tampoco. Usé Velociraptor 0.6.9 y obtuve FORENSE-06-triaje.zip.
+Triaje. KAPE no funcionó y Velociraptor 0.77 tampoco. Usé Velociraptor 0.6.9 y obtuve FORENSE-06-triaje.zip.
 
-Cifrado. Lo comprobé con EDD. Resultado: no hay volúmenes cifrados. Guardé la captura en FORENSE-06-EDD.txt.
+Cifrado: Lo comprobé con EDD. 
+Resultado: no hay volúmenes cifrados. Guardé la captura en FORENSE-06-EDD.txt.
 
 Apagado: Apagué por desconexión directa. Ya tenía todo lo volátil y no había
 cifrado, un apagado normal podría ejecutar scripts del atacante y escribir en
